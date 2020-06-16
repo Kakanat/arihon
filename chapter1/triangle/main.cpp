@@ -18,8 +18,8 @@ int main() {
         int rest = len - ma;
         if (ma < rest) {
           ans = max(ans, len);
+        }
       }
-    }
     }
   }
   cout << ans << endl;
