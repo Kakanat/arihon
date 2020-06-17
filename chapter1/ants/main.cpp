@@ -3,6 +3,7 @@ using namespace std;
 
 const int MAX_N = 1e06;
 
+
 int main() {
   int L, n, x[MAX_N];
   cin >> L >> n;
