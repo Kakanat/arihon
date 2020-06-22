@@ -6,8 +6,7 @@
 * 幅優先探索（BFS）
 * 枝刈り
 
-next_permutation
-
+`next_permutation`は覚えておくと便利。
 
 ## 2-2（貪欲法）
 
