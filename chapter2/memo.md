@@ -12,4 +12,4 @@
 
 「その場での最善」の選択を繰り返す。正しいルールを慎重に選ぶことが大切。
 
-FenceRepairはハフマン符号のアルゴリズムとして知られている。
+[FenceRepair](https://github.com/Kakanat/arihon/tree/master/chapter2/2-2/FenceRepair)はハフマン符号のアルゴリズムとして知られている。
